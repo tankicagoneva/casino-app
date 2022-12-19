@@ -4,7 +4,6 @@ npm-debug.log*
 .DS_Store
 coverage
 node_modules
-build
 public/static
 .env
 .env.local
@@ -14,3 +13,4 @@ public/static
 .idea
 cache
 cypress/screenshots/
+.vercel

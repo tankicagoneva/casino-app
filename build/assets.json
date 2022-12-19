@@ -1,0 +1,34 @@
+{
+  "client": {
+    "css": [
+      "/static/css/client.3a19c4a6.css"
+    ],
+    "js": [
+      "/static/js/client.7c81b3ac.js"
+    ],
+    "map": [
+      "/static/css/client.3a19c4a6.css.map",
+      "/static/js/client.7c81b3ac.js.map"
+    ],
+    "chunks": [
+      0
+    ]
+  },
+  "noentry": {
+    "ico": [
+      "/favicon.ico"
+    ],
+    "html": [
+      "/index.html"
+    ],
+    "txt": [
+      "/robots.txt",
+      "/static/js/client.7c81b3ac.js.LICENSE.txt"
+    ],
+    "svg": [
+      "/static/media/comp-logo.0b91aaaf.svg",
+      "/static/media/eth-logo.2fec62be.svg",
+      "/static/media/metamask-logo.070304df.svg"
+    ]
+  }
+}
