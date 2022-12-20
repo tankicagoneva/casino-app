@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "license": "UNLICENSED",
   "scripts": {
-    "start": "razzle start",
-    "build": "razzle build --noninteractive "
+    "start": "razzle start"
   },
   "dependencies": {
     "@web3-react/core": "^6.1.9",
